@@ -1,5 +1,5 @@
 {
-	"file": "data/patientData/patientData.csv",
+	"file": "patientData.csv",
 	"name": "ACOVID-19 Patients",
 	"header": 0,
 	"separator": ",",
