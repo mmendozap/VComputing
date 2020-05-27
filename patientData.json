@@ -6,10 +6,10 @@
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "ID" },
-		{ "type": "character", "index":1, "name": "Age" }
+		{ "type": "integer", "index":1, "name": "Month" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 4, "end": 17 }
+		{ "format": "binary", "start": 2, "end": 21}
 	],
     "author": "Melissa Mendoza",
     "description": "COVID-19 patients medical phases",
