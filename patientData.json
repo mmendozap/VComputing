@@ -1,5 +1,5 @@
 {
-	"file": "https://raw.githubusercontent.com/mmendozap/VComputing/master/patientData2.csv",
+	"file": "https://raw.githubusercontent.com/mmendozap/VComputing/master/patientData.csv",
 	"name": "ACOVID-19 Patients",
 	"header": 0,
 	"separator": ";",
