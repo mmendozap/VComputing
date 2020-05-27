@@ -2,7 +2,7 @@
 	"file": "https://raw.githubusercontent.com/mmendozap/VComputing/master/patientData2.csv",
 	"name": "ACOVID-19 Patients",
 	"header": 0,
-	"separator": ",",
+	"separator": ";",
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "ID" },
